@@ -22,7 +22,7 @@ This project implements a digit recognition model from scratch using only NumPy 
 - Python
 - NumPy
 - Pandas
-- Matplotlib (optional for visualization)
+
 
 ## Dataset
 - MNIST (handwritten digit dataset)
@@ -32,4 +32,3 @@ This project implements a digit recognition model from scratch using only NumPy 
 - Achieves solid accuracy on MNIST without using any ML frameworks
 - Demonstrates correctness of manual gradient computations
 
-## Project Structure
